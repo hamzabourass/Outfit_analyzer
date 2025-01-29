@@ -28,7 +28,7 @@ python src/main.py
 ```
 
 Controls:
-- Press SPACE to capture and analyze an outfit
+- Make a peace sign ✌️ to capture and analyze outfit
 - Press Q to quit
 
 ## Output
